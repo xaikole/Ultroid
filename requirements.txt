@@ -1,6 +1,11 @@
-# Important Requirements here.
-telethon
-# https://github.com/TeamUltroid/Telethon/archive/ultroid.zip
+# Telethon patched version
+# Replace with either link you prefer
 https://github.com/New-dev0/Telethon-Patch/archive/main.zip
-python-decouple
-python-dotenv
+
+# Telethon alternative from TeamUltroid
+# Uncomment below if using the Ultroid version
+# https://github.com/TeamUltroid/Telethon/archive/ultroid.zip
+
+# Environment management libraries
+python-decouple==3.7
+python-dotenv==1.0.0
